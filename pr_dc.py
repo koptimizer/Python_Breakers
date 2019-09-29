@@ -50,3 +50,20 @@ matrix = [
 
 matrix = [[row[i] for row in matrix] for i in range(4)]
 print(matrix)
+
+# 튜플
+t = 1234, 54321, "hello!"
+print(t)
+
+# 집합
+a = set('abracadabra')
+b = set('alacazam')
+print(a)
+print(b)
+print(a-b) #차집합
+print(a|b) #합집합
+print(a&b) #교집합
+print(a^b) #대칭차집합
+
+c = {x for x in 'abracadabra' if x not in 'abc'} #리스트컴프리핸션 차집합
+print(c)
