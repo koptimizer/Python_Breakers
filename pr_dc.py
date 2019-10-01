@@ -67,3 +67,29 @@ print(a^b) #대칭차집합
 
 c = {x for x in 'abracadabra' if x not in 'abc'} #리스트컴프리핸션 차집합
 print(c)
+
+# 딕셔너리(맵)
+tel = {'jack' : 4098, 'sape' : 1494}
+tel['gudo'] = 4127
+print(tel)
+# print(tel[0]) 배열로는 못부르넹
+print(tel['jack'])
+list(tel)
+sorted(tel)
+del(tel['jack'])
+print(tel)
+dicx = {x : x**2 for x in (2, 4, 6, 8)} # 딕셔너리 컴프리핸션
+print(dicx)
+print(dict(ape=133, wnw=1334, wkn=24)) # 키가 간단한 문자열이면 이렇게도 가능
+
+#루프 테크닉
+for i, w in tel.items():
+    print(i,'+',w)
+for i, w in enumerate(['tic', 'tac', 'toc']):
+    print(i,w)
+
+questions = ['name', 'birth', 'address', 'age']
+answers = ['pang', '0710', '16030','23']
+
+for q, a in zip(questions, answers):
+    print("what is your {0}? It is {1}.".format(q, a))
