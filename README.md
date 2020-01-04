@@ -10,21 +10,22 @@
 
 ## 파뿌리란?
 - **이십대들을 위한 파이썬 뿌수기 대작전**
+- **즐겁게 코딩하는 것이 제 1원칙!**
 <br>
 
 ## 파뿌리는 무엇을 배우나요??
 - **파이썬의 기본 문법**
 - **파이썬의 다양한 자료구조**
 - **파이썬 종합 프로그램 제작**
-<br>
 - **pandas와 각종 라이브러리를 이용한 데이터분석 및 시각화**
 - **tensorflow를 활용한 머신러닝 프리뷰**
-- **깃헙 활용법 **
-<br>
+- **Github 활용법**
+<br/>
 
 ## License & Copyright
 - **MIT : code only**
 - **copyright. 2020. Gwang Jong Ko. All rights reserved.**
+<br/>
 
 ## Contact
 - ilovecoding@kakao.com
