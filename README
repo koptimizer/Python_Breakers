@@ -1,19 +1,31 @@
-데이터 사이언스를 위한 파이썬 프로그래밍 
 
-190920 : 오랜만에 깃에 들어왔다.
+<h1 align="center">
+  <img src = "https://user-images.githubusercontent.com/29548128/71769266-43433580-2f62-11ea-8d41-ae40f21f8c50.png"><br/>
+</h1>
 
-190923 : 파이썬 당신은 신인가? 2차원행열전치 1줄컷 무엇???
+<p align="center">
+  <img src = "https://img.shields.io/badge/Language-python-blue">
+</p>
+<br>
 
-190929 : 자료구조 : 튜플, 집합, 
- 
-191001 : 자료구조 : 딕셔너리(맵), 루프테크닉
+## 파뿌리란?
+- **이십대들을 위한 파이썬 뿌수기 대작전**
+<br>
 
-191002 : 모듈 시작, 데이터핸들링(김성교수님)
+## 파뿌리는 무엇을 배우나요??
+- **파이썬의 기본 문법**
+- **파이썬의 다양한 자료구조**
+- **파이썬 종합 프로그램 제작**
+<br>
+- **pandas와 각종 라이브러리를 이용한 데이터분석 및 시각화**
+- **tensorflow를 활용한 머신러닝 프리뷰**
+- **깃헙 활용법 **
+<br>
 
-191006 : 모듈, dir()
+## License & Copyright
+- **MIT : code only**
+- **copyright. 2020. Gwang Jong Ko. All rights reserved.**
 
-191007 : 포맷 문자열 리터럴
-
-191010 : 파일 입출력
-
-191128 : 클래스, 모듈, 패키지, 내/외장함수 문제풀이
+## Contact
+- ilovecoding@kakao.com
+- rhkswhdwkd@naver.com
