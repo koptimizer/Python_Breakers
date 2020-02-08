@@ -1,0 +1,44 @@
+※ 아나콘다 배포판 사용 안하면 엑셀 다룰 수 있도록 pip install xlrd, pip install openpyxl 해줘야 함. 
+
+1. corona.xlsx 파일엔 1월20일부터 1월 30일까지의 중국과 타국에서의 
+신종 코로나바이러스 확진자 추이가 담겨있다. 
+1) 이 엑셀을 Pandas.DataFrame으로 읽어온 뒤, 한국column을 만들고 데이터를 추가해서 다시 저장하기.
+	한국
+1월 20일 : 1
+1월 22일 : 1
+1월 24일 : 2
+1월 26일 : 3
+1월 28일 : 4
+1월 30일 : 7
+2) 1)의 파일을 불러와서 원래 데이터는 sheet1에, 중국에 대한 데이터는 sheet2에,
+타국은 sheet3에, 한국은 sheet4에 저장하기
+tip : pandas.ExcelWriter()
+tip2 : 깊은 복사 에러 시 pd.options.mode.chained_assignment = None 삽입
+
+
+2. auto-mpg.csv 파일은 자동차의 연비에 대한 데이터셋이다.
+1) 다음에 맞추어서 해당 데이터셋에 column name을 붙혀 엑셀파일 auto-mpg-2.xlsx로 저장하라.
+['mpg(연비)', 'cylinders(실린더 수)', 'displacement(배기량)', 'horsepower(출력)', 'weight(차중)', 'acceleration(가속능력)', 'model_year(출시년도)', 'origin number(제조국 번호)', 'name(모델 명)']
+2) 연비와 차중에 대한 mean 값을 구하라
+tip : DataFrame[column].mean()
+3) 연비와 출력의 표준편차를 구하라.
+tip : DataFrame[[column1, column2]].std()
+4) 3)문제에서 출력의 표준편차는 구할 수 없다.... 이유를 서술하라.
+tip : DataFrame.info()
+5) 출시년도를 최신순에 따라 데이터를 정렬해서 auto-mpg-2.xlsx의 sheet 2에 저장하라.(원본은 sheet 1)
+tip : DataFrame.sort_values()
+
+
+3. 남북한발전전력량.xlsx 파일엔 남한과 북한의 발전전력별 연간 통계량이 저장되어있다.
+이 데이터에서 남한과 북한의 '수력 및 화력발전과 그 합계'에 대한 연간 통계량만 을 분리해라.
+그 후, 남북한발전전력량2.xlsx에다가 원본 데이터를 sheet1에 저장하고, 분리해낸 데이터를 sheet2에 저장하라. 
+tip : 합계항목은 수력 + 화력으로 더한 값이 나오도록... for문 사용
+tip2 : iloc와 loc
+ex) sheet2)
+              1990   1991   1993 ...
+남한 합계   548 ...
+      수력   64 ...
+      화력   484 ...
+북한 합계   277 ...
+      수력   156 ...
+      화력   121 ...
