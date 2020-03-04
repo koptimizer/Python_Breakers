@@ -1,6 +1,6 @@
 1. 이상치를 결정하는 방법인 다음에 대해서 조사해오기.
-1) IQR
-2) Mahalanobis distance
+1) IQR : 
+2) Mahalanobis distance :
 
 
 2. seaborn의 tips데이터에 대한 visualization을 하려고 한다.

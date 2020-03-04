@@ -1,0 +1,15 @@
+※ DataFrame 출력 시 짤린다면... pd.set_option() 메소드 찾아서 해결바람
+
+1. seaborn의 titanic데이터에 대한 결측치제거를 하려고 한다.
+
+※ titanic 데이터는 타이타닉호에 타고있던 승객들의 정보를 담고 있다.
+'survival(생존여부)', 'pclass(좌석 클래스)', 'name(이름)', 'sex(성별)', 'age(나이)', 
+'sibsp(탑승한 형제or자매/배우자 수)', parch(탑승한 부모/자식 수),
+'fare(요금)', 'embarked('승선 항')', 'class(좌석 클래스)', 'who(성별)', 'adult_male(성인남성여부)'
+'deck(선실)', 'embark_town('승선 항')', 'alive(생존여부)', 'alone(개인 승객 여부)'로 구성되어 있음.
+
+
+
+1) 데이터셋을 확인하고, 깔끔하게 만들어라. (다다익선)
+2) missing value를 제거하라. (replacement 사용)
+3) 각 의미있는 변수들의 관계를 visualizaition해라(최소 3개이상)
