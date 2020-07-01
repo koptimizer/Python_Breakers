@@ -9,8 +9,8 @@
   <img src = "https://img.shields.io/badge/Library-Seaborn-9cf">
   <img src = "https://img.shields.io/badge/Library-Sklearn-green"> <br/><br/>
   <img src = "https://img.shields.io/badge/파뿌리2기-모집중!-brightgreen"> <br/>
-  <img src = "https://img.shields.io/badge/파뿌리2기-모집중!-brightgreen"> <br/>
-  <img src = "https://img.shields.io/badge/파뿌리2기-모집중!-brightgreen"> <br/>
+  <img src = "https://img.shields.io/badge/파뿌리2기-2020.09 ~ 2020.12-brightgreen"> <br/>
+  <img src = "https://img.shields.io/badge/파뿌리2기-ilovecoding@kakao.com-brightgreen"> <br/>
 </p>
 <br>
 
