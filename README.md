@@ -34,6 +34,7 @@
 - 파뿌리 ☝기 : 박수현, 변준현, 이수빈 (2019.12 ~ 2020.02)
 - 파뿌리 ✌기 : 모집중!! (2020.09 ~ 2020.12)
 - 파뿌리 🤟기 : 2021.1월 예정
+<br>
 
 ## :loop: Copyright
 - **copyright. 2020. Gwang Jong Ko. All rights reserved.**
