@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <img src = "https://img.shields.io/badge/Language-python-blue">
+  <img src = "https://img.shields.io/badge/Language-ython-blue">
   <img src = "https://img.shields.io/badge/Library-Pandas-skyblue">
   <img src = "https://img.shields.io/badge/Library-Seaborn-9cf">
   <img src = "https://img.shields.io/badge/Library-Sklearn-green"> <br/><br/>
