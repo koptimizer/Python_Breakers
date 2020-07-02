@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <img src = "https://img.shields.io/badge/Language-ython-blue">
+  <img src = "https://img.shields.io/badge/Language-Python-blue">
   <img src = "https://img.shields.io/badge/Library-Pandas-skyblue">
   <img src = "https://img.shields.io/badge/Library-Seaborn-9cf">
   <img src = "https://img.shields.io/badge/Library-Sklearn-green"> <br/><br/>
@@ -16,6 +16,7 @@
 
 ## 🤔 파뿌리란?
 - **'파이썬 뿌시는 이십대들'이라는 뜻으로, 파이썬 프로그래밍 재능기부 프로젝트입니다.**
+- **파이썬을 뿌시고 싶은 모든 분들을 환영합니다!!**
 - **파이썬의 기초와 자료구조부터 데이터분석, 협업을 위한 깃 스킬까지 다양하게 다루어보게 됩니다!**
 - *Since 2019.12* 🏃
 <br>
