@@ -8,7 +8,7 @@
   <img src = "https://img.shields.io/badge/Library-Pandas-skyblue">
   <img src = "https://img.shields.io/badge/Library-Seaborn-9cf">
   <img src = "https://img.shields.io/badge/Library-Sklearn-green"> <br/><br/>
-  <img src = "https://img.shields.io/badge/파뿌리2기-모집중!-brightgreen"> <br/>
+  <img src = "https://img.shields.io/badge/파뿌리2기-진행중!-brightgreen"> <br/>
   <img src = "https://img.shields.io/badge/파뿌리2기-2020.09 ~ 2020.12-brightgreen"> <br/>
   <img src = "https://img.shields.io/badge/파뿌리2기-ilovecoding@kakao.com-brightgreen"> <br/>
 </p>
@@ -33,7 +33,7 @@
 
 ## 👨‍🎓 함께한 사람들
 - 파뿌리 ☝기 : [S Park](https://github.com/vivian0304), [J Byun](https://github.com/JunHyun-DS), [S Lee](https://github.com/gmksf99) (2019.12 ~ 2020.02)
-- 파뿌리 ✌기 : 모집중!! (2020.09 ~ 2020.12)
+- 파뿌리 ✌기 : [Y Kim](https://github.com/), [Y Kim](https://github.com/), [S Min](https://github.com/), [J Byun](https://github.com/), [S Yu](https://github.com/), [J Jung](https://github.com/) (2020.09 ~ 2020.12)
 - 파뿌리 🤟기 : 2021.1월 예정
 <br>
 
