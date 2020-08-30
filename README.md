@@ -37,8 +37,12 @@
 - 파뿌리 🤟기 : 2021.1월 예정
 <br>
 
+## 🏅 파뿌리 사진첩
+<img src = "https://github.com/koptimizer/Python_Breakers/blob/master/dwd.jpg" width="450" height="550"/>
+<br>
+
 ## :loop: Copyright
-- **copyright. 2020. Gwang Jong Ko. All rights reserved.**
+- **Copyright. 2020. Gwang Jong Ko. All rights reserved.**
 <br/>
 
 ## Contact
