@@ -21,19 +21,12 @@ print('----- 데이터 확인 중 -----\n')
 mpg_df[['model_year', 'origin']] = mpg_df[['model_year', 'origin']].astype('object')
 print(mpg_df.describe(include = "all"),"\n")
 
-# 결측값 대체 - 기존 DF를 복제하고 '출력 column'에 '?'가 있는 row을 제거하고 출력의 평균을 구해서 hpMean에 삽입
-mpg_df_ex = mpg_df
-mpg_df_ex['horsepower'].replace('?', np.nan, inplace = True)
-mpg_df_ex.dropna(subset=['horsepower'], axis = 0, inplace = True)
-mpg_df_ex['horsepower'] = mpg_df_ex['horsepower'].astype('float')
-hpMean = round(mpg_df_ex['horsepower'].mean(),3)
+# 결측값 대체 - '출력' column에 '?'가 있는 row을 제거하고 출력의 평균을 구해서 hpMean에 삽입
+mpg_df.replace('?', np.nan, inplace = True)
+mpg_df = mpg_df.astype({'horsepower' : np.float})
+hpMean = round(mpg_df['horsepower'].mean(),3)
 print("결측값용 대체값 :",hpMean,"\n")
-
-# 결측값 대체 - ?를 제외한 출력의 평균을 결측치들에 넣어준다.
-mpg_df_ex['horsepower'].replace('?', hpMean, inplace = True)
-mpg_df_ex.dropna(subset=['horsepower'], axis = 0, inplace = True)
-mpg_df_ex['horsepower'] = mpg_df_ex['horsepower'].astype('float')
-
+mpg_df['horsepower'].replace('?', hpMean, inplace = True)
 print(mpg_df.describe(include = 'all'))
 print('----- 데이터 전처리 완료 -----\n')
 
