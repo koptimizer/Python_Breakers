@@ -8,8 +8,8 @@
   <img src = "https://img.shields.io/badge/Library-Pandas-skyblue">
   <img src = "https://img.shields.io/badge/Library-Seaborn-9cf">
   <img src = "https://img.shields.io/badge/Library-Sklearn-green"> <br/><br/>
-  <img src = "https://img.shields.io/badge/파뿌리2기-진행중!-brightgreen"> <br/>
-  <img src = "https://img.shields.io/badge/파뿌리2기-2020.09 ~ 2020.12-brightgreen"> <br/>
+  <img src = "https://img.shields.io/badge/파뿌리2기-준비중-brightgreen"> <br/>
+  <img src = "https://img.shields.io/badge/파뿌리2기-upcomming-brightgreen"> <br/>
   <img src = "https://img.shields.io/badge/파뿌리2기-ilovecoding@kakao.com-brightgreen"> <br/>
 </p>
 <br>
