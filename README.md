@@ -8,8 +8,7 @@
   <img src = "https://img.shields.io/badge/Library-Pandas-skyblue">
   <img src = "https://img.shields.io/badge/Library-Seaborn-9cf">
   <img src = "https://img.shields.io/badge/Library-Sklearn-green"> <br/><br/>
-  <img src = "https://img.shields.io/badge/파뿌리3기-준비중-brightgreen"> <br/>
-  <img src = "https://img.shields.io/badge/파뿌리3기-upcomming-brightgreen"> <br/>
+  <img src = "https://img.shields.io/badge/파뿌리3기-모집중-brightgreen"> <br/>
   <img src = "https://img.shields.io/badge/파뿌리3기-ilovecoding@kakao.com-brightgreen"> <br/>
 </p>
 <br>
@@ -34,7 +33,7 @@
 ## 👨‍🎓 함께한 사람들
 - 파뿌리 ☝기 : [SH Park](https://github.com/vivian0304), [JH Byun](https://github.com/JunHyun-DS), [SB Lee](https://github.com/gmksf99) (2019.12 ~ 2020.02)
 - 파뿌리 ✌기 : [YJ Kim](https://github.com/Kimyoungjae777), [YH Kim](https://github.com/k-0-1), [SH Min](https://github.com/dataSH1213), [JH Byun](https://github.com/JunHyun-DS), [ST Yu](https://github.com/Cluster-Taek), [JH Jung](https://github.com/Joohee97124) (2020.09 ~ 2020.12)
-- 파뿌리 🤟기 : 2021.1월 예정
+- 파뿌리 🤟기 : 2021.8월 예정
 <br>
 
 ## 🏅 파뿌리 사진첩
