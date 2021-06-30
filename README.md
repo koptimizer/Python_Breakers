@@ -8,7 +8,7 @@
   <img src = "https://img.shields.io/badge/Library-Pandas-skyblue">
   <img src = "https://img.shields.io/badge/Library-Seaborn-9cf">
   <img src = "https://img.shields.io/badge/Library-Sklearn-green"> <br/><br/>
-  <img src = "https://img.shields.io/badge/파뿌리3기-모집중-brightgreen"> <br/>
+  <img src = "https://img.shields.io/badge/파뿌리3기-진행중!!!-brightgreen"> <br/>
   <img src = "https://img.shields.io/badge/파뿌리3기-ilovecoding@kakao.com-brightgreen"> <br/>
 </p>
 <br>
@@ -21,11 +21,12 @@
 <br>
 
 ## 🤗 파뿌리 목차
+0. **파이썬 데이터 분석 환경 설정(가상환경, Git, Jupyter lab)**
 1.  **파이썬의 기본 문법과 코딩스타일**
 2.  **파이썬으로 들여다보는 자료구조와 OOP 개념**
 3.  **Pandas&Seaborn 데이터전처리 및 시각화**
 4.  **Scikit-learn 데이터 분석 및 해석**
-5.  **Git과 Github로 협업하고, 포트폴리오 만들고!**
+5.  **파뿌리 컨퍼런스: 데이터 분석 프로젝트 발표회**
 6.  **번외. beautifulSoup4 웹크롤링으로 데이터 떠먹기**
 7.  **번외. Dialogflow로 똑똑한 챗봇만들기**
 <br/>
@@ -33,11 +34,15 @@
 ## 👨‍🎓 함께한 사람들
 - 파뿌리 ☝기 : [SH Park](https://github.com/vivian0304), [JH Byun](https://github.com/JunHyun-DS), [SB Lee](https://github.com/gmksf99) (2019.12 ~ 2020.02)
 - 파뿌리 ✌기 : [YJ Kim](https://github.com/Kimyoungjae777), [YH Kim](https://github.com/k-0-1), [SH Min](https://github.com/dataSH1213), [JH Byun](https://github.com/JunHyun-DS), [ST Yu](https://github.com/Cluster-Taek), [JH Jung](https://github.com/Joohee97124) (2020.09 ~ 2020.12)
-- 파뿌리 🤟기 : 2021.8월 예정
+- 파뿌리 🤟기 : [YJ Kim](), [JY Kim](), [SH Park](), [SY Oh](), [SW Cja](), [MS Choi]() (2021.07 ~ 2020.12)
 <br>
 
 ## 🏅 파뿌리 사진첩
+- 2기
 <img src = "https://github.com/koptimizer/Python_Breakers/blob/master/dwd.jpg" width="450" height="550"/>
+
+- 3기
+<img src = "https://github.com/koptimizer/Python_Breakers/blob/master/wdw.jpg" width="450" height="550"/>
 <br>
 
 ## :loop: Copyright
