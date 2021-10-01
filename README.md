@@ -35,7 +35,7 @@
 ## 👨‍🎓 함께한 사람들
 - 파뿌리 ☝기 : [SH Park](https://github.com/vivian0304), [JH Byun](https://github.com/JunHyun-DS), [SB Lee](https://github.com/gmksf99) (2019.12 ~ 2020.02)
 - 파뿌리 ✌기 : [YJ Kim](https://github.com/Kimyoungjae777), [YH Kim](https://github.com/k-0-1), [SH Min](https://github.com/dataSH1213), [JH Byun](https://github.com/JunHyun-DS), [ST Yu](https://github.com/Cluster-Taek), [JH Jung](https://github.com/Joohee97124) (2020.09 ~ 2020.12)
-- 파뿌리 🤟기 : [YJ Kim](https://github.com/iamyeahzi), [JY Kim](https://github.com/yunniverse), [SH Park](https://github.com/vivian0304a), [SY Oh](https://github.com/SEUNGYEOPOH), [SW Cha](https://github.com/SeungWoo1120), [MS Choi](https://github.com/minseochoi-AI) (2021.07 ~ 2020.12)
+- 파뿌리 🤟기 : [YJ Kim](https://github.com/iamyeahzi), [JY Kim](https://github.com/yunniverse), [SH Park](https://github.com/vivian0304), [SY Oh](https://github.com/SEUNGYEOPOH), [SW Cha](https://github.com/SeungWoo1120), [MS Choi](https://github.com/minseochoi-AI) (2021.07 ~ 2020.12)
 <br>
 
 ## 🏅 파뿌리 사진첩
